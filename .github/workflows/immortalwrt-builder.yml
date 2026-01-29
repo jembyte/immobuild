@@ -13,8 +13,9 @@ jobs:
     steps:
       - name: Fix permissions
         run: |
-          ls -ld $PWD
-          sudo chown -R ubuntu:ubuntu $PWD
+          fdir="$(echo $PWD | awk -F '/' '{print "/"$2}')"
+          ls -ld $fdir
+          sudo chown -R ubuntu:ubuntu $fdir
 
       - name: Checkout
         uses: actions/checkout@v4
