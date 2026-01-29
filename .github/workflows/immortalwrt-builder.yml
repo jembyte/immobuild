@@ -1,0 +1,54 @@
+name: ImmortalWrt Builder
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/jembyte/immobuild:latest
+      options: --user ubuntu
+
+    steps:
+      - name: Fix permissions
+        run: |
+          ls -ld $PWD
+          chown -R ubuntu:ubuntu $PWD
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Clone source code
+        run: |
+          git clone \
+          -b v24.10.4 \
+          --single-branch \
+          --filter=blob:none \
+          --depth=1 \
+          https://github.com/immortalwrt/immortalwrt.git
+
+      - name: Update and install feeds
+        run: |
+          cd immortalwrt
+          scripts/feeds update -a
+          scripts/feeds install -a
+
+      - name: Prepare build
+        run: |
+          cat config.buildinfo > immortalwrt/.config
+          cd immortalwrt
+          patch -p1 < ../tl-wr840n-v6.2_24.10.4.patch
+
+          make defconfig
+
+      - name: Build ImmortalWrt
+        run: |
+          cd immortalwrt
+          make -j$(nproc --all)
+
+      - name: Upload firmware
+        uses: actions/upload-artifact@v4
+        with:
+          name: tl-wr840n-v6.2_immo-24.10.4
+          path: immortalwrt/bin/targets/ramips/mt76x8
