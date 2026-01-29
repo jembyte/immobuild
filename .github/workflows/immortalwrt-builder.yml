@@ -8,14 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/jembyte/immobuild:latest
-      options: --user ubuntu
+      #options: --user ubuntu
 
     steps:
-      - name: Fix permissions
-        run: |
-          fdir="$(echo $PWD | awk -F '/' '{print "/"$2}')"
-          ls -ld $fdir
-          sudo chown -R ubuntu:ubuntu $fdir
+      #- name: Fix permissions
+      #  run: |
+      #    fdir="$(echo $PWD | awk -F '/' '{print "/"$2}')"
+      #    ls -ld $fdir
+      #    sudo chown -R ubuntu:ubuntu $fdir
 
       - name: Checkout
         uses: actions/checkout@v4
