@@ -44,9 +44,11 @@ jobs:
           make defconfig
 
       - name: Build ImmortalWrt
+        env:
+          FORCE_UNSAFE_CONFIGURE: 1
         run: |
           cd immortalwrt
-          make -j$(nproc --all) V=s
+          make -j$(nproc --all)
 
       - name: Upload firmware
         uses: actions/upload-artifact@v4
