@@ -46,7 +46,7 @@ jobs:
       - name: Build ImmortalWrt
         run: |
           cd immortalwrt
-          make -j$(nproc --all)
+          make -j$(nproc --all) V=s
 
       - name: Upload firmware
         uses: actions/upload-artifact@v4
