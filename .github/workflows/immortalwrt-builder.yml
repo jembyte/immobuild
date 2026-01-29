@@ -14,7 +14,7 @@ jobs:
       - name: Fix permissions
         run: |
           ls -ld $PWD
-          chown -R ubuntu:ubuntu $PWD
+          sudo chown -R ubuntu:ubuntu $PWD
 
       - name: Checkout
         uses: actions/checkout@v4
