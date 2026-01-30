@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/jembyte/immobuild:latest
-      #options: --user ubuntu
+      options: --user runner
 
     steps:
       #- name: Fix permissions
@@ -44,8 +44,8 @@ jobs:
           make defconfig
 
       - name: Build ImmortalWrt
-        env:
-          FORCE_UNSAFE_CONFIGURE: 1
+        #env:
+        #  FORCE_UNSAFE_CONFIGURE: 1
         run: |
           cd immortalwrt
           make -j$(nproc --all)
