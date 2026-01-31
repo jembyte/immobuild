@@ -39,7 +39,7 @@ jobs:
         run: |
           cat config.buildinfo > immortalwrt/.config
           cd immortalwrt
-          patch -p1 < ../tl-wr840n-v6.2_24.10.4.patch
+          patch -p1 < ../tl-wr840n-v6.20_24.10.4.patch
 
           make defconfig
 
@@ -53,5 +53,5 @@ jobs:
       - name: Upload firmware
         uses: actions/upload-artifact@v4
         with:
-          name: tl-wr840n-v6.2_immo-24.10.4
+          name: tl-wr840n-v6.20_immo-24.10.4
           path: immortalwrt/bin/targets/ramips/mt76x8

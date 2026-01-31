@@ -77,8 +77,8 @@
  	],
  	"@OPENWRT": [
  		"https://sources.cdn.openwrt.org",
---- a/target/linux/ramips/dts/mt7628an_tplink_tl-wr840n-v6.2.dts
-+++ b/target/linux/ramips/dts/mt7628an_tplink_tl-wr840n-v6.2.dts
+--- a/target/linux/ramips/dts/mt7628an_tplink_tl-wr840n-v6.20.dts
++++ b/target/linux/ramips/dts/mt7628an_tplink_tl-wr840n-v6.20.dts
 @@ -0,0 +1,148 @@
 +// SPDX-License-Identifier: GPL-2.0-or-later OR MIT
 +
@@ -89,8 +89,8 @@
 +#include <dt-bindings/leds/common.h>
 +
 +/ {
-+	compatible = "tplink,tl-wr840n-v6.2", "mediatek,mt7628an-soc";
-+	model = "TP-Link TL-WR840N v6.2";
++	compatible = "tplink,tl-wr840n-v6.20", "mediatek,mt7628an-soc";
++	model = "TP-Link TL-WR840N v6.20";
 +
 +	aliases {
 +		led-boot = &led_wlan;
@@ -234,11 +234,11 @@
  endef
  TARGET_DEVICES += tplink_tl-wr840n-v5
  
-+define Device/tplink_tl-wr840n-v6.2
++define Device/tplink_tl-wr840n-v6.20
 +  $(Device/tplink-v2)
 +  IMAGE_SIZE := 16384k
 +  DEVICE_MODEL := TL-WR840N
-+  DEVICE_VARIANT := v6.2
++  DEVICE_VARIANT := v6.20
 +  TPLINK_FLASHLAYOUT := 16Mmtk
 +  TPLINK_HWID := 0x08400006
 +  TPLINK_HWREVADD := 0x6
@@ -246,7 +246,7 @@
 +  IMAGE/tftp-recovery.bin := pad-extra 64k | $$(IMAGE/factory.bin)
 +  DEFAULT := n
 +endef
-+TARGET_DEVICES += tplink_tl-wr840n-v6.2
++TARGET_DEVICES += tplink_tl-wr840n-v6.20
 +
  define Device/tplink_tl-wr841n-v13
    $(Device/tplink-v2)
@@ -257,7 +257,7 @@
  	ucidef_set_led_switch "lan4" "lan4" "green:lan4" "switch0" "0x10"
  	ucidef_set_led_switch "wan" "wan" "green:wan" "switch0" "0x01"
  	;;
-+tplink,tl-wr840n-v6.2|\
++tplink,tl-wr840n-v6.20|\
  tplink,tl-wr841n-v14)
  	ucidef_set_led_switch "lan" "lan" "green:lan" "switch0" "0x1e"
  	ucidef_set_led_switch "wan" "wan" "green:wan" "switch0" "0x01"
@@ -267,7 +267,7 @@
  	tplink,tl-mr3420-v5|\
  	tplink,tl-wr840n-v4|\
  	tplink,tl-wr840n-v5|\
-+	tplink,tl-wr840n-v6.2|\
++	tplink,tl-wr840n-v6.20|\
  	tplink,tl-wr841n-v13|\
  	tplink,tl-wr841n-v14|\
  	tplink,tl-wr842n-v5|\
@@ -275,7 +275,7 @@
  	tplink,tl-mr3420-v5|\
  	tplink,tl-wr840n-v4|\
  	tplink,tl-wr840n-v5|\
-+	tplink,tl-wr840n-v6.2|\
++	tplink,tl-wr840n-v6.20|\
  	tplink,tl-wr841n-v13|\
  	tplink,tl-wr841n-v14|\
  	tplink,tl-wr842n-v5|\
