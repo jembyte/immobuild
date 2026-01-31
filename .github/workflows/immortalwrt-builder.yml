@@ -2,6 +2,15 @@ name: ImmortalWrt Builder
 
 on:
   workflow_dispatch:
+    inputs:
+      immver:
+        description: 'ImmortalWrt version'
+        required: true
+        default: '21.02.7'
+        type: choice
+        options:
+          - 21.02.7
+          - 24.10.4
 
 jobs:
   build:
@@ -23,7 +32,7 @@ jobs:
       - name: Clone source code
         run: |
           git clone \
-          -b v24.10.4 \
+          -b v${{ inputs.immver }} \
           --single-branch \
           --filter=blob:none \
           --depth=1 \
@@ -37,9 +46,9 @@ jobs:
 
       - name: Prepare build
         run: |
-          cat config.buildinfo > immortalwrt/.config
+          cat config_${{ inputs.immver }}.buildinfo > immortalwrt/.config
           cd immortalwrt
-          patch -p1 < ../tl-wr840n-v6.20_24.10.4.patch
+          patch -p1 < ../tl-wr840n-v6.20_${{ inputs.immver }}.patch
 
           make defconfig
 
@@ -53,5 +62,5 @@ jobs:
       - name: Upload firmware
         uses: actions/upload-artifact@v4
         with:
-          name: tl-wr840n-v6.20_immo-24.10.4
+          name: tl-wr840n-v6.20_immo-${{ inputs.immver }}
           path: immortalwrt/bin/targets/ramips/mt76x8
