@@ -1,0 +1,650 @@
+ç[05010B0F][05010C0B][8A880000][26253A38][00262538]
+çDU Setting Cal Done
+ä
+çU-Boot 1.1.3 ® ıÓ†14 2018 - 11:06:28)
+
+Bo·rd: Ralink APSoC D“AM:  32 MB
+relocate_code Pointer ·Ù∫†81fc0000
+***™%%•IIIRRRR***%%%II®h—hdoÁíïÕ— Oc¨ó…ë
+*™%%•IIIRRR“**™%%•IIIRf+ÕÅmanuVç—’…e id'·,¢ïŸçe i‰¢0 ±RfZãÅf+ÕÈ GD25TL&)==OOOOÍÍ===OOOœÍÍ===OOOOÍÍ===OOOOÍÍ===OOR“X´π≠ÅUBoo≤ï…Õon: ìirÇrÇ
+-KKKK©©©©jjj---≠KKK©©©©jjjÍ---KKKK©©©jjjjÇ
+A™jÅ7ì¬˙5A(PoÚWjÚrΩπï•
+DRASΩµ¡Ωnenóí™≤Mbi◊DD“	∫•ë—h 1ì®DRPS’Õ: 1∂í•—)Tot·jïµΩry:ö2 M®—Õ)Fla.ΩµponÂãÈ ”ÅF+Õ)DatÂ'©óä¢ 2∞L¢•me:LL'≤“8
+OOOœÍÍ===OOOœÍÍ==ΩOOOœÍÍ==ΩOOOœÍÍ===OOOORica,´È ÆWÈ512, WÂÕÈ4, li´ÕÈÈ32 ,tãÖ±È65536äC÷ç°e: sY◊È2M	∫ÖÂs:4¨b•πïÕz:3≤b¢Ω—al:3¶ìR
+ §§§§¢°ïÅCPU fÆVÅ=™80†S ## °*Õ—imatYjïµΩry sZØÍ Mb^W÷)RESEjQ›628 P*
+
+
+ä!
+¨À—πue Ùö—rtiÓöÂÕ—em.äCÇ 
+çVkÖâ±e sWãç°ÅphyK—..
+†Ç
+≥'öÂÕ—em ®Î—syste[Ωëï vi·2±ÖÕ.(0âc01Ç00©°àΩ}booÙ[ß…c=2,äëë…u0xb,äÇÇÇÇ
+£$ΩΩting Öùï at†¨,äÇÇ00 ……R Un„´…ÕsinÁZï…ïl IÌXVÅÆ…	˛OK
+ÍJπ•trdäC§$¢…ansÊY..ÀÎÅcoã…Ω±Åto LÈ´·Å(X
+ëëress¬000Ç00)r..
+C§$:•vingb•π’·memÆKïÅin MB	öíR
+SÙX.WÀÎÅkeÚ.…I
+√[  0.Ç000ÍÅLi´·ÅˆYÆÆÎÀ≤r≤rä10†I’±ëbot¿¨Wããâot.ÈÀ…πimmo.W±›…t.oÚV	Bj•pseÏKïπ›rt-ÏZ+·µmusl≠÷Å®
+ïπ]…t G√(äörö.0 Ú¶&íj™›17Vöö*ë6d) L&irÇb GNUbëÅ(GNU ¬Z+—±s) 2âíJÇ Monzç—27 14ßÇ“∫202µC°+Ç0.0Ç00∞WΩÖ…d h·."I≈
+[ Ç 0.Ç000jÅAnXÎPMU sY¢ΩÅhw „À…±
+[  0.Ç000ÍÅDiVãÖ±ÅPMU ÛY¢ΩÅhw cÔã…±5
+[  0.00Ç00] ™kÅT^ïÈ MYV+Qï≠ MT7ì¬
+9Åver:L*çΩÈ2
+[  0	ÇÇÇÇÇ] pÚZ≠È booÙ¨ÀÕ±e [ÂX.+¡] ena,´ë5ä+ÇÚ00∞Ç0] (UíïŸÕon È.'ÇÇÇä96µMBj%AS 2¥©‘ç·[  0.Ç000ÍÅMI–*'jÖçhine†Z.¢AµLink†™∫I·40N ˆìIj
+[  0ÆÇ000ÍÅInZóëÅÓfÔ]ÅÔ.*µ¡—y -†VkÖâ±ing Z+…5
+[ †Ç0.∞Ç000WÇ…µary Zk—…’tioÓç°ï 64k(	≤%AT, 4KWÂ± linÂÆÀÅ32 b^W÷
+[  0.0∞ÇÇÇÍÅPrimXÆÅdXWÅcX,´Å32kB,¢-w·^	Ç%AT, Ó
+±•Öses¨b•πïÕize &&Â—es
+[  Ç0.0Ç000W“πïranÁY.ßHhÇr000Ç0] Nor[X⁄ïµÅ0x000Ç000Ç000Ç0-0¡000Ç000Lññôôô]
++Çr000Ç0] ÕÀâ±ï zonYö—…t foÚ*Öç°ÅnodeC°+0.0Ç000›*Ö…ÂmemÔnÔVíÖπges°+Ç.00∞Ç0] nodÂÇ 0:ZµïµÅ0x00∞ÇÇÇÇÇÇ000Ç0-0A000∞Ç00±ññôôô]
+[Ç  0	ÇÇÇÇÇ] IÓZW´µÅsetıÅnodYÇ⁄ïm 0¯Ç000Ç000Ç000∞K¬¡∞Ç000Ç1ffñññu5
+[    ∞	ÇÇÇÇÇ] KY.´±ÅcommXãÅlÈ´È „ÀkΩ±ï=tt˘*bää™í00 ÆÎ—Õ—ypeΩÆ’Õôs,jÊ÷…ä[    Ú000Ç0] Tñã…ÂcacËYBÖÕ ta,´Åeã…ïÕ: 40NBz…der:í, 1”¬Â—Õ, lÈ…
+[ Ç 0ÆÇ00∞ÍÅIÎµcache†+ÕÅtablÂ*π—…es: &¢¬Bz…ï…: 1,¬192†¨—Õ liÓYXÆ©H¯[   †Ú00∞Ç0] ï•—πg ErÆ(íïgistYÆÇÇÇÇ77b‚C°+Ç0.∞Ç000WíïÖëâack†Q.Æ— reÁZ.Wñı0000”â5
+[   †rÇÇÇÇ00]†®Wãã1 zÔ•Õ—s, mK•±•—Â gr´¡•πùoff	¢Ω—l paV÷È ∏L&j
++Çr0000Ç] mY[
+’—-inióö—çk:oÊ	BïÖp alÎkÈoñ	BïÖp fÚYYßÀ
+[   †Ú000Ç0] SY[KÂi 24µìZΩ3¶ìZÅavaiÏX,´Å(4986)Zï…ïl cÔV	™¬K rV—± 812ÀΩëÖ—a, ±&&”
+Jπ•— 201ÀÕÕ 819”
+íïÕerve	ÇZÅcma-Æ÷…Ÿed)ç·[   Ç.00Ç00›1U	: H◊X´ùπu32,z…ï…u0-3¨j•π=âjectÆÇbAUÕı1, NoV÷ı±C·[  Ç0.0Ç000WrI}%IQS: ¶ì”H¯[    ∞	ÇÇÇÇÇ] ÈÈ ]ÆÀÎÅregiÛWñÅmXÅfr´"ïŸiceÙÆV÷H¯[  0.∞ÇÇÇÇÍÅCPU±Ωç≠: 58j!È5
+[   †rÇÇÇÇ00]±Ωç≠Õour¨ñj%AS: ÌXÆ-Ç¬ôôôôfff†[X}çÂcleÛ'Ç¬ôffffñ	jÖ·_idÏYÂÕÈ 6590MM&¶ÚÕ5
++ÇrÇ000í] sc´ë}ç±Ωck: &&•—Õ at†¶Çj!È1 resã´—Ωπ 3nÛ	∫…¡s evYÆÅ7™ää™ 2nsC·[  0.∞∫617WÖ±•âratÈÎÅde+ÂÅlÎπ.	ö¬r¬4 BÎΩ5%AÕ (l©=19¶íä≤Jj
+[  0.0”ö Ípidﬂ[XÈ†VñÖ’t: ≥¶ì¬j•π•µ’m: 3ä
+[   †Ú08∂SöÍÅMounWiÖç°ï haÛ¢Öâ±e enó•ïÕÈ 102¥¬ordY.'Çb409∂íÂ—Õ, li´Ö…
+[  0.0N&™ÇÍMouÓΩ•π—-cac´ÅhaÛ¢Öâ±e eÓïÕÈ 102Bz…ëïr: ∞	¢Ç ÇbytY.	b•nearJC·[ †Çrää187≥WíUÅTask.¢…çï: SÂWÀÎÅshifÙ¢ΩÅ0
+πëÅlim tÔä rc]≈Õ˝cb_·ñ+Õ—ı1 rc]≈Õ˝cpuﬂZ÷ı1©H[†Ç 0.L¶¬ÍÅclÔÆ´…ce: ≠À•ïÕ: m·Æ-'Ç¬ôôôôfff [X}çÂçles'Ç¬ôôfffÊ	jÖ·_idÏYÂÕÈ 191L&¢¢≤275Ç00 k5
+[  †Çräö∫420W2’—· ha.¢Öâ±e eÓïÕi 25Bz…ïr: KL	öÇ∫2 ‚^WÕ lineXÆ©H¯€Çr144í6] •πç—…l cÔJπitiX+È pin,ó±Åsubs˘.Wµ5
+[    r152SÍÅNET:†™÷ÕterÂÇ}πETLRjΩP‘%ıUQE pÚΩ± famZ+5
+[   †Ú15π¶™ÍÅther[XÎ5Âs: “YVk—red¢°ï…al gÀ…Ωr 'sW}›se'°+Ç.16¶¶™ÍÅ/pin,ó±È Fixe"ï¡ïπden¨Åcy,´°sJ∫•—/pik—…Ωpincó±¡·[    r188LMS±ockÛ´…ïi SwÈ◊ïëto „Îk≠Õurcej%AM5
+[  0.&≤ö™ÇjÅNEïíïùistÂÆÅPF_INQÇ…toco2Öµ•lyä€ÇÚ21±&äÍÅIP iVñãÕhas¢Öâ±e eÓïÕi 20Bz…der∫í, ±”¬Â—Õ1 liÓYX.©H¯[  0.2&ö≤≤ÍÅtcp≈Õ—n_po.Wëë…_hasBÖÕ ta‚eÓïÕi 10&Bz…der∫Ç, ¥ Âtes¨b•πïÖr)ä[   †Ú22∏MNLW¢Öâ±ï5perÙ].,BÖsh Wâ±ïÅentrZY.≤™53∂¬or‰Y.'≤bÇ26≤LÂtes¨b•πïar)°+Ç.23ö¢ÍÅTCP Y.Wâ±•sheBÖÕtab´Åenó•ïÕÈ 10≤Bz…er:Ç, ¥ 6 ‚^WÕ linYXÆ©HhÇ.24&ìÍÅTCP•πëÅhash¢Öâ±ï entÆ´ÕÈ 102¥¬or‰Y.'äbÇ81π&Â—s, +ÀÖ…)
+[  0I™Çí≤™] T(•BÖsh ÙX,´ÕconVk’…d (Y.Wâ±ishÂäÇí¢ biãÅ1∞&S©H¯[  0.2MS”ÍÅUD–BÖÕ ta‚eã…ïÕi 25Bz…er:Ç, 4 6 b^WÕ linYXÆ©H¯+0.2ì ¬ÍÅUD’b•— haÛ¢Öâ±e eÓó•ïÕi 25Bz…ïr: b 40NÂ—es, +ÀïÖ…)
+€  r270M””rQÈ Regi.Wïë PF_U*aΩPF_LO®1ÅpÆãΩçΩl f·[Z+5
+[   Ç.2∑™öÍÅPC…'1M 0 ‚^WÕ defX]ãÅ32
+[  †Ç.28MMÍÅworkZÎÕ—: tÈ[Y.Wµp_bZ◊ı3Çmaxı…ï…=13†¨◊ï—_ordYÆÇj
+€Çr292M&ÍÅsquasÀÕÈ†WñÕΩn 4ÆÇ(2∞ zÇäz31)Ç°•±±ip L´ù°ï…
+[  0I ¬ää] -ñV…: veÆÆÎÀí.2†…9) (”USSIÂ) (Ã*• (RTISQJB5=˝PRIJQe• (c©íÇÇäj200íïëHat	Jπçπ
+[   Ç.31ä¬ÍÅBlo„-bÖÂer S®™
+:ïnerÈ,BÕ) dÆÀ…versZÀ0âbΩÖded†©+©Ω… 25±JC·[  0Æ&&””] m◊ä˙ù¡•ΩÅ100∞≤ÇÇr:¡•ΩÈ regZ.◊…ng ≥&:¡•osä[  Ç0.≥&≤öäÍÅmÙììä˙ù¡•ΩÅ100∞≤ÇÇr:¡•ΩÈ reÁZ.Wñ•ng &&:¡•os·[    Ú336&”j—›62Lu¡•Ω 10Ç060rgpiKíïùistÂÆÀÎÅ32 g•ΩÕ5
+[  0.&ì™Ç¬] SÂÆ+±È 825˙16µM"…iveÚ	ä≤ÇΩ…—Õ, I“Tö°Ö…ing™πÖâ±ed·[†Çrö559¶SÇ…intÎ'ΩπÕole⁄——ÂM0] dZÆâ±ïd
+[   †rö≤Ç¬12]ä00∞¡0©Ö…—¡: tÙ^*
+— MM…
+Ç¬≈0000„ÇBJ…q =í8, ¨Õ}âaud†Oí™ÇÇ000©JÕ·™™ÇA
+[    0.369389] printk: console [ttyS0] enabled
+[    0.369389] printk: console [ttyS0] enabled
+[    0.377797] printk: bootconsole [early0] disabled
+[    0.377797] printk: bootconsole [early0] disabled
+[    0.423339] spi-mt7621 10000b00.spi: sys_freq: 193333333
+[    0.435784] spi-nor spi0.0: gd25q128 (16384 Kbytes)
+[    0.440966] 3 fixed-partitions partitions found on MTD device spi0.0
+[    0.447461] OF: Bad cell count for /palmbus@10000000/spi@b00/flash@0/partitions
+[    0.454938] OF: Bad cell count for /palmbus@10000000/spi@b00/flash@0/partitions
+[    0.462701] Creating 3 MTD partitions on "spi0.0":
+[    0.467581] 0x000000000000-0x000000010000 : "boot"
+[    0.476445] 0x000000010000-0x000000ff0000 : "firmware"
+[    0.484807] 2 tplink-fw partitions found on MTD device firmware
+[    0.490920] Creating 2 MTD partitions on "firmware":
+[    0.495965] 0x000000000000-0x0000001ef4de : "kernel"
+[    0.501016] mtd: partition "kernel" doesn't end on an erase/write block -- force read-only
+[    0.511850] 0x0000001ef4e0-0x000000fe0000 : "rootfs"
+[    0.516927] mtd: partition "rootfs" doesn't start on an erase/write block boundary -- force read-only
+[    0.528738] mtd: setting mtd3 (rootfs) as root device
+[    0.533999] 1 squashfs-split partitions found on MTD device rootfs
+[    0.540412] 0x000000710000-0x000000fe0000 : "rootfs_data"
+[    0.548471] 0x000000ff0000-0x000001000000 : "factory"
+[    0.556211] OF: Bad cell count for /palmbus@10000000/spi@b00/flash@0/partitions
+[    0.591123] rt3050-esw 10110000.esw: mediatek esw at 0xb0110000, irq 25 initialized
+[    0.600029] mtk_soc_eth 10100000.ethernet eth0: mediatek frame engine at 0xb0100000, irq 5
+[    0.611996] NET: Registered PF_INET6 protocol family
+[    0.625138] Segment Routing with IPv6
+[    0.629075] In-situ OAM (IOAM) with IPv6
+[    0.633299] NET: Registered PF_PACKET protocol family
+[    0.638562] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+[    0.652081] 8021q: 802.1Q VLAN Support v1.8
+[    0.700335] clk: Disabling unused clocks
+[    0.718950] VFS: Mounted root (squashfs filesystem) readonly on device 31:3.
+[    0.733094] Freeing unused kernel image (initmem) memory: 1224K
+[    0.739151] This architecture does not have kernel memory protection.
+[    0.745695] Run /sbin/init as init process
+[    4.215650] init: Console is alive
+[    4.219787] init: - watchdog -
+[    6.923906] kmodloader: loading kernel modules from /etc/modules-boot.d/*
+[    7.642694] gpio_button_hotplug: loading out-of-tree module taints kernel.
+[    7.662842] kmodloader: done loading kernel modules from /etc/modules-boot.d/*
+[    7.673191] init: - preinit -
+[   13.878198] random: crng init done
+Press the [f] key and hit [enter] to enter failsafe mode
+Press the [1], [2], [3] or [4] key and hit [enter] to select the debug level
+[   22.080722] mount_root: loading kmods from internal overlay
+[   22.118474] kmodloader: loading kernel modules from //etc/modules-boot.d/*
+[   22.127731] kmodloader: done loading kernel modules from //etc/modules-boot.d/*
+[   23.068063] block: attempting to load /tmp/overlay/upper/etc/config/fstab
+[   23.081486] block: unable to load configuration (fstab: Entry not found)
+[   23.088766] block: attempting to load /tmp/overlay/etc/config/fstab
+[   23.095534] block: unable to load configuration (fstab: Entry not found)
+[   23.102800] block: attempting to load /etc/config/fstab
+[   23.113318] block: unable to load configuration (fstab: Entry not found)
+[   23.120575] block: no usable configuration
+[   23.128224] block: attempting to load /etc/config/fstab
+[   23.134058] block: unable to load configuration (fstab: Entry not found)
+[   23.141293] block: no usable configuration
+[   23.146692] mount_root: jffs2 not ready yet, using temporary tmpfs overlay
+[   23.182694] urandom-seed: Seed file not found (/etc/urandom.seed)
+[   23.566517] procd: - early -
+[   23.569989] procd: - watchdog -
+[   25.252744] procd: - watchdog -
+[   25.258757] procd: - ubus -
+[   26.799111] procd: - init -
+Please press Enter to activate this console.
+[   30.905615] kmodloader: loading kernel modules from /etc/modules.d/*
+[   33.271951] NET: Registered PF_ALG protocol family
+[   33.489093] Loading modules backported from Linux version v6.12.52-0-g2b2cbdcede38
+[   33.496808] Backport generated by backports.git v6.1.110-1-35-g410656ef
+[   34.011952] mt76_wmac 10300000.wmac: ASIC revision: 76280001
+[   34.081363] mt76_wmac 10300000.wmac: Firmware Version: 20151201
+[   34.087410] mt76_wmac 10300000.wmac: Build Time: 20151201183641
+[   34.138175] mt76_wmac 10300000.wmac: firmware init done
+[   34.301821] urngd: v1.0.2 started.
+[   34.308515] mt76_wmac 10300000.wmac: registering led 'mt76-phy0'
+[   35.308181] PPP generic driver version 2.4.2
+[   35.314149] PPP MPPE Compression module registered
+[   35.339547] NET: Registered PF_PPPOX protocol family
+[   35.371389] kmodloader: done loading kernel modules from /etc/modules.d/*
+[  269.860444] br-lan: port 1(eth0.1) entered blocking state
+[  269.865972] br-lan: port 1(eth0.1) entered disabled state
+[  269.871578] eth0.1: entered allmulticast mode
+[  269.876019] mtk_soc_eth 10100000.ethernet eth0: entered allmulticast mode
+[  269.883287] eth0.1: entered promiscuous mode
+[  269.887649] mtk_soc_eth 10100000.ethernet eth0: entered promiscuous mode
+[  282.497081] hostapd invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=0
+[  282.507855] CPU: 0 PID: 1490 Comm: hostapd Tainted: G           O       6.6.110 #0
+[  282.515544] Stack : 80527f54 00000000 ffffffff 800501e8 00000000 00000000 00000000 00000000
+[  282.524076]         00000000 00000000 00000000 00000000 00000000 00000001 81e15b78 bd70347d
+[  282.532601]         81e15c10 00000000 00000000 81e15ab8 00000038 804d7b64 00000000 00000007
+[  282.541128]         20202020 00000042 00000100 2020204f 804f02a0 804f02a0 80934500 805b3e3c
+[  282.549657]         7fffffff 805b3c80 ffffffff 80000000 00000000 802836e4 00000000 80770000
+[  282.558187]         ...
+[  282.560673] Call Trace:
+[  282.560683] [<800501e8>] 0x800501e8
+[  282.566858] [<804d7b64>] 0x804d7b64
+[  282.570454] [<802836e4>] 0x802836e4
+[  282.574139] [<8000614c>] 0x8000614c
+[  282.577683] [<80006154>] 0x80006154
+[  282.581225] [<804b8c0c>] 0x804b8c0c
+[  282.584863] [<800d8c7c>] 0x800d8c7c
+[  282.588646] [<800d90a4>] 0x800d90a4
+[  282.592284] [<80112580>] 0x80112580
+[  282.595879] [<800d9608>] 0x800d9608
+[  282.599427] [<801135f4>] 0x801135f4
+[  282.603170] [<800d652c>] 0x800d652c
+[  282.607092] [<800d6838>] 0x800d6838
+[  282.610635] [<80017810>] 0x80017810
+[  282.614699] [<800fc3fc>] 0x800fc3fc
+[  282.618338] [<800ff240>] 0x800ff240
+[  282.622360] [<8000e378>] 0x8000e378
+[  282.625903] [<80167250>] 0x80167250
+[  282.629498] [<8001230c>] 0x8001230c
+[  282.633095] [<8000ccf4>] 0x8000ccf4
+[  282.636636] [<80167200>] 0x80167200
+[  282.640192] 
+[  282.641756] Mem-Info:
+[  282.644065] active_anon:605 inactive_anon:536 isolated_anon:0
+[  282.644065]  active_file:0 inactive_file:1012 isolated_file:0
+[  282.644065]  unevictable:0 dirty:0 writeback:0
+[  282.644065]  slab_reclaimable:309 slab_unreclaimable:1689
+[  282.644065]  mapped:19 shmem:45 pagetables:84
+[  282.644065]  sec_pagetables:0 bounce:0
+[  282.644065]  kernel_misc_reclaimable:0
+[  282.644065]  free:256 free_pcp:0 free_cma:0
+[  282.681925] Node 0 active_anon:2420kB inactive_anon:2144kB active_file:0kB inactive_file:4048kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:76kB dirty:0kB writeback:0kB shmem:180kB writeback_tmp:0kB kernel_stack:392kB pagetables:336kB sec_pagetables:0kB all_unreclaimable? no
+[  282.708146] Normal free:1024kB boost:0kB min:1024kB low:1280kB high:1536kB reserved_highatomic:0KB active_anon:2420kB inactive_anon:2144kB active_file:0kB inactive_file:4048kB unevictable:0kB writepending:0kB present:32768kB managed:25796kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+[  282.735332] lowmem_reserve[]: 0 0
+[  282.738717] Normal: 0*4kB 0*8kB 60*16kB (U) 2*32kB (U) 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB 0*8192kB = 1024kB
+[  282.750757] 1057 total pagecache pages
+[  282.754558] 8192 pages RAM
+[  282.757300] 0 pages HighMem/MovableOnly
+[  282.761200] 1743 pages reserved
+[  282.764384] Tasks state (memory values in pages):
+[  282.769162] [  pid  ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+[  282.777904] [    480]    81   480      383       27    20480        0             0 ubusd
+[  282.786226] [    488]     0   488      271       12    20480        0             0 askfirst
+[  282.794810] [    523]     0   523      310       15    20480        0             0 urngd
+[  282.803128] [   1070]   514  1070      587       36    24576        0             0 logd
+[  282.811359] [   1124]     0  1124      986      113    24576        0             0 rpcd
+[  282.819591] [   1292]   453  1292     1326      260    24576        0             0 dnsmasq
+[  282.828074] [   1490]     0  1490     2040      154    24576        0             0 hostapd
+[  282.836569] [   1491]     0  1491     2026      142    24576        0             0 wpa_supplicant
+[  282.845681] [   1555]     0  1555      679       47    20480        0             0 netifd
+[  282.854088] [   1673]     0  1673      473       26    20480        0             0 odhcpd
+[  282.862497] [   1792]     0  1792      500       29    20480        0             0 uhttpd
+[  282.870910] [   1794]     0  1794      409       76    16384        0             0 S80ucitrack
+[  282.879758] [   1865]     0  1865      438       99    20480        0             0 dnsmasq
+[  282.888262] [   1885]     0  1885      363       26    20480        0             0 hotplug-call
+[  282.897189] [   1888]     0  1888      679       39    20480        0             0 netifd
+[  282.905599] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),task=dnsmasq,pid=1292,uid=453
+[  282.914284] Out of memory: Killed process 1292 (dnsmasq) total-vm:5304kB, anon-rss:1032kB, file-rss:4kB, shmem-rss:4kB, UID:453 pgtables:24kB oom_score_adj:0
+[  338.588203] ls invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=0
+[  338.598515] CPU: 0 PID: 1897 Comm: ls Tainted: G           O       6.6.110 #0
+[  338.605764] Stack : 80527f54 00000000 ffffffff 800501e8 00000000 00000000 00000000 00000000
+[  338.614296]         00000000 00000000 00000000 00000000 00000000 00000001 81d2fb78 1372f8c9
+[  338.622821]         81d2fc10 00000000 00000000 81d2fab8 00000038 804d7b64 00000000 00000009
+[  338.631347]         20202020 00000042 00000100 36202020 804f02a0 804f02a0 80a84500 805b3e3c
+[  338.639877]         7fffffff 805b3c80 ffffffff 80000000 00000000 802836e4 00000000 80770000
+[  338.648407]         ...
+[  338.650893] Call Trace:
+[  338.650903] [<800501e8>] 0x800501e8
+[  338.657079] [<804d7b64>] 0x804d7b64
+[  338.660676] [<802836e4>] 0x802836e4
+[  338.664361] [<8000614c>] 0x8000614c
+[  338.667905] [<80006154>] 0x80006154
+[  338.671447] [<804b8c0c>] 0x804b8c0c
+[  338.675133] [<800d8c7c>] 0x800d8c7c
+[  338.678869] [<800d90a4>] 0x800d90a4
+[  338.682508] [<800d8e54>] 0x800d8e54
+[  338.686102] [<800d9608>] 0x800d9608
+[  338.689650] [<801135f4>] 0x801135f4
+[  338.693394] [<800d652c>] 0x800d652c
+[  338.697317] [<800d6838>] 0x800d6838
+[  338.701383] [<800fc3fc>] 0x800fc3fc
+[  338.705022] [<800ff240>] 0x800ff240
+[  338.709046] [<8000e378>] 0x8000e378
+[  338.712636] [<80140c4c>] 0x80140c4c
+[  338.716231] [<8001230c>] 0x8001230c
+[  338.719794] 
+[  338.721359] Mem-Info:
+[  338.723668] active_anon:430 inactive_anon:442 isolated_anon:0
+[  338.723668]  active_file:0 inactive_file:1248 isolated_file:0
+[  338.723668]  unevictable:0 dirty:0 writeback:0
+[  338.723668]  slab_reclaimable:305 slab_unreclaimable:1697
+[  338.723668]  mapped:20 shmem:47 pagetables:90
+[  338.723668]  sec_pagetables:0 bounce:0
+[  338.723668]  kernel_misc_reclaimable:0
+[  338.723668]  free:256 free_pcp:0 free_cma:0
+[  338.761535] Node 0 active_anon:1720kB inactive_anon:1768kB active_file:0kB inactive_file:4992kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:80kB dirty:0kB writeback:0kB shmem:188kB writeback_tmp:0kB kernel_stack:392kB pagetables:360kB sec_pagetables:0kB all_unreclaimable? no
+[  338.787757] Normal free:1024kB boost:0kB min:1024kB low:1280kB high:1536kB reserved_highatomic:0KB active_anon:1720kB inactive_anon:1768kB active_file:0kB inactive_file:4992kB unevictable:0kB writepending:0kB present:32768kB managed:25796kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+[  338.814973] lowmem_reserve[]: 0 0
+[  338.818368] Normal: 0*4kB 0*8kB 46*16kB (U) 9*32kB (U) 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB 0*8192kB = 1024kB
+[  338.830410] 1295 total pagecache pages
+[  338.834211] 8192 pages RAM
+[  338.836952] 0 pages HighMem/MovableOnly
+[  338.840853] 1743 pages reserved
+[  338.844037] Tasks state (memory values in pages):
+[  338.848815] [  pid  ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+[  338.857556] [    480]    81   480      383       27    20480        0             0 ubusd
+[  338.865876] [    488]     0   488      271       12    20480        0             0 askfirst
+[  338.874462] [    523]     0   523      310       15    20480        0             0 urngd
+[  338.882780] [   1070]   514  1070      587       38    24576        0             0 logd
+[  338.891011] [   1124]     0  1124      986      113    24576        0             0 rpcd
+[  338.899242] [   1490]     0  1490     2040      154    24576        0             0 hostapd
+[  338.907726] [   1491]     0  1491     2026      142    24576        0             0 wpa_supplicant
+[  338.916838] [   1555]     0  1555      679       49    20480        0             0 netifd
+[  338.925245] [   1673]     0  1673      478       28    20480        0             0 odhcpd
+[  338.933653] [   1792]     0  1792      500       29    20480        0             0 uhttpd
+[  338.942062] [   1794]     0  1794      409       76    16384        0             0 S80ucitrack
+[  338.950916] [   1885]     0  1885      370       34    20480        0             0 hotplug-call
+[  338.959852] [   1888]     0  1888      362       25    16384        0             0 hotplug-call
+[  338.968798] [   1890]     0  1890      374       36    16384        0             0 packet_steering
+[  338.977989] [   1891]     0  1891      461       11    20480        0             0 dnsmasq
+[  338.986488] [   1897]     0  1897      349       11    20480        0             0 ls
+[  338.994543] [   1902]     0  1902      349        9    16384        0             0 mac80211.sh
+[  339.003390] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),task=hostapd,pid=1490,uid=0
+[  339.011897] Out of memory: Killed process 1490 (hostapd) total-vm:8160kB, anon-rss:612kB, file-rss:4kB, shmem-rss:0kB, UID:0 pgtables:24kB oom_score_adj:0
+[  339.584472] wpa_supplicant invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=0
+[  339.595862] CPU: 0 PID: 1491 Comm: wpa_supplicant Tainted: G           O       6.6.110 #0
+[  339.604168] Stack : 80527f54 00000000 ffffffff 800501e8 00000000 00000000 00000000 00000000
+[  339.612700]         00000000 00000000 00000000 00000000 00000000 00000001 81a35b78 2dd7fd15
+[  339.621225]         81a35c10 00000000 00000000 81a35ab8 00000038 804d7b64 00000000 00000009
+[  339.629752]         20202020 00000042 00000100 20202020 804f02a0 804f02a0 80a86d00 805b3e3c
+[  339.638281]         7fffffff 805b3c80 ffffffff 80000000 00000000 802836e4 00000000 80770000
+[  339.646810]         ...
+[  339.649297] Call Trace:
+[  339.649307] [<800501e8>] 0x800501e8
+[  339.655483] [<804d7b64>] 0x804d7b64
+[  339.659079] [<802836e4>] 0x802836e4
+[  339.662764] [<8000614c>] 0x8000614c
+[  339.666309] [<80006154>] 0x80006154
+[  339.669850] [<804b8c0c>] 0x804b8c0c
+[  339.673489] [<800d8c7c>] 0x800d8c7c
+[  339.677272] [<800d90a4>] 0x800d90a4
+[  339.680911] [<80112580>] 0x80112580
+[  339.684506] [<800d9608>] 0x800d9608
+[  339.688054] [<801135f4>] 0x801135f4
+[  339.691799] [<800d652c>] 0x800d652c
+[  339.695723] [<800d6838>] 0x800d6838
+[  339.699265] [<80017810>] 0x80017810
+[  339.703332] [<800fc3fc>] 0x800fc3fc
+[  339.706972] [<800ff240>] 0x800ff240
+[  339.710997] [<8000e378>] 0x8000e378
+[  339.714540] [<80167250>] 0x80167250
+[  339.718134] [<8001230c>] 0x8001230c
+[  339.721698] 
+[  339.723261] Mem-Info:
+[  339.725570] active_anon:348 inactive_anon:371 isolated_anon:0
+[  339.725570]  active_file:0 inactive_file:1429 isolated_file:0
+[  339.725570]  unevictable:0 dirty:0 writeback:0
+[  339.725570]  slab_reclaimable:305 slab_unreclaimable:1697
+[  339.725570]  mapped:20 shmem:47 pagetables:84
+[  339.725570]  sec_pagetables:0 bounce:0
+[  339.725570]  kernel_misc_reclaimable:0
+[  339.725570]  free:256 free_pcp:0 free_cma:0
+[  339.763418] Node 0 active_anon:1392kB inactive_anon:1484kB active_file:0kB inactive_file:5716kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:80kB dirty:0kB writeback:0kB shmem:188kB writeback_tmp:0kB kernel_stack:384kB pagetables:336kB sec_pagetables:0kB all_unreclaimable? yes
+[  339.789713] Normal free:1024kB boost:0kB min:1024kB low:1280kB high:1536kB reserved_highatomic:0KB active_anon:1392kB inactive_anon:1484kB active_file:0kB inactive_file:5716kB unevictable:0kB writepending:0kB present:32768kB managed:25796kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+[  339.816898] lowmem_reserve[]: 0 0
+[  339.820285] Normal: 0*4kB 0*8kB 46*16kB (U) 9*32kB (U) 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB 0*8192kB = 1024kB
+[  339.832331] 1476 total pagecache pages
+[  339.836132] 8192 pages RAM
+[  339.838889] 0 pages HighMem/MovableOnly
+[  339.842776] 1743 pages reserved
+[  339.845959] Tasks state (memory values in pages):
+[  339.850736] [  pid  ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+[  339.859489] [    480]    81   480      383       27    20480        0             0 ubusd
+[  339.867797] [    488]     0   488      271       12    20480        0             0 askfirst
+[  339.876381] [    523]     0   523      310       15    20480        0             0 urngd
+[  339.884702] [   1070]   514  1070      587       38    24576        0             0 logd
+[  339.892930] [   1124]     0  1124      986      113    24576        0             0 rpcd
+[  339.901163] [   1491]     0  1491     2026      142    24576        0             0 wpa_supplicant
+[  339.910275] [   1555]     0  1555      679       49    20480        0             0 netifd
+[  339.918682] [   1673]     0  1673      478       28    20480        0             0 odhcpd
+[  339.927077] [   1792]     0  1792      500       29    20480        0             0 uhttpd
+[  339.935491] [   1794]     0  1794      409       76    16384        0             0 S80ucitrack
+[  339.944351] [   1885]     0  1885      370       34    20480        0             0 hotplug-call
+[  339.953294] [   1888]     0  1888      362       25    16384        0             0 hotplug-call
+[  339.962227] [   1890]     0  1890      374       36    16384        0             0 packet_steering
+[  339.971427] [   1891]     0  1891      461       11    20480        0             0 dnsmasq
+[  339.979923] [   1897]     0  1897      349       11    20480        0             0 ls
+[  339.987966] [   1902]     0  1902      349        9    16384        0             0 mac80211.sh
+[  339.996812] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),task=wpa_supplicant,pid=1491,uid=0
+[  340.005939] Out of memory: Killed process 1491 (wpa_supplicant) total-vm:8104kB, anon-rss:564kB, file-rss:4kB, shmem-rss:0kB, UID:0 pgtables:24kB oom_score_adj:0
+[  342.135316] oom_reaper: reaped process 1491 (wpa_supplicant), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[  395.403816] hotplug-call invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=0
+[  395.415043] CPU: 0 PID: 1888 Comm: hotplug-call Tainted: G           O       6.6.110 #0
+[  395.423172] Stack : 80527f54 00000000 ffffffff 800501e8 00000000 00000000 00000000 00000000
+[  395.431705]         00000000 00000000 00000000 00000000 00000000 00000001 81025b78 c400ae97
+[  395.440230]         81025c10 00000000 00000000 81025ab8 00000038 804d7b64 00000000 00000006
+[  395.448756]         20202020 00000042 00000100 20202020 804f02a0 804f02a0 80935400 805b3e3c
+[  395.457285]         7fffffff 805b3c80 ffffffff 80000000 00000000 802836e4 00000000 80770000
+[  395.465815]         ...
+[  395.468301] Call Trace:
+[  395.468311] [<800501e8>] 0x800501e8
+[  395.474487] [<804d7b64>] 0x804d7b64
+[  395.478082] [<802836e4>] 0x802836e4
+[  395.481767] [<8000614c>] 0x8000614c
+[  395.485311] [<80006154>] 0x80006154
+[  395.488853] [<804b8c0c>] 0x804b8c0c
+[  395.492491] [<800d8c7c>] 0x800d8c7c
+[  395.496273] [<800d90a4>] 0x800d90a4
+[  395.499912] [<80112580>] 0x80112580
+[  395.503506] [<800d9608>] 0x800d9608
+[  395.507054] [<801135f4>] 0x801135f4
+[  395.510797] [<800d652c>] 0x800d652c
+[  395.514720] [<800d6838>] 0x800d6838
+[  395.518310] [<8013cc3c>] 0x8013cc3c
+[  395.522376] [<800fc3fc>] 0x800fc3fc
+[  395.526015] [<800ff240>] 0x800ff240
+[  395.530038] [<8000e378>] 0x8000e378
+[  395.533581] [<80121b04>] 0x80121b04
+[  395.537222] [<8001230c>] 0x8001230c
+[  395.540880] 
+[  395.542434] Mem-Info:
+[  395.544743] active_anon:514 inactive_anon:197 isolated_anon:0
+[  395.544743]  active_file:1456 inactive_file:0 isolated_file:0
+[  395.544743]  unevictable:0 dirty:0 writeback:0
+[  395.544743]  slab_reclaimable:305 slab_unreclaimable:1700
+[  395.544743]  mapped:24 shmem:51 pagetables:108
+[  395.544743]  sec_pagetables:0 bounce:0
+[  395.544743]  kernel_misc_reclaimable:0
+[  395.544743]  free:256 free_pcp:0 free_cma:0
+[  395.582689] Node 0 active_anon:2056kB inactive_anon:788kB active_file:5824kB inactive_file:0kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:96kB dirty:0kB writeback:0kB shmem:204kB writeback_tmp:0kB kernel_stack:424kB pagetables:432kB sec_pagetables:0kB all_unreclaimable? yes
+[  395.608904] Normal free:1024kB boost:0kB min:1024kB low:1280kB high:1536kB reserved_highatomic:0KB active_anon:2056kB inactive_anon:788kB active_file:5824kB inactive_file:0kB unevictable:0kB writepending:0kB present:32768kB managed:25796kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+[  395.636022] lowmem_reserve[]: 0 0
+[  395.639414] Normal: 0*4kB 0*8kB 40*16kB (U) 12*32kB (U) 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB 0*8192kB = 1024kB
+[  395.651544] 1507 total pagecache pages
+[  395.655345] 8192 pages RAM
+[  395.658087] 0 pages HighMem/MovableOnly
+[  395.661988] 1743 pages reserved
+[  395.665171] Tasks state (memory values in pages):
+[  395.669949] [  pid  ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+[  395.678702] [    480]    81   480      383       27    20480        0             0 ubusd
+[  395.687010] [    488]     0   488      271       12    20480        0             0 askfirst
+[  395.695594] [    523]     0   523      310       15    20480        0             0 urngd
+[  395.703915] [   1070]   514  1070      587       44    24576        0             0 logd
+[  395.712143] [   1124]     0  1124      986      113    24576        0             0 rpcd
+[  395.720374] [   1555]     0  1555      685       53    20480        0             0 netifd
+[  395.728781] [   1673]     0  1673      482       30    20480        0             0 odhcpd
+[  395.737177] [   1792]     0  1792      500       29    20480        0             0 uhttpd
+[  395.745583] [   1794]     0  1794      409       76    16384        0             0 S80ucitrack
+[  395.754431] [   1885]     0  1885      370       34    20480        0             0 hotplug-call
+[  395.763372] [   1888]     0  1888      370       33    16384        0             0 hotplug-call
+[  395.772309] [   1890]     0  1890      385       48    16384        0             0 packet_steering
+[  395.781511] [   1891]     0  1891      981       18    24576        0             0 dnsmasq
+[  395.790014] [   1902]     0  1902      369       30    16384        0             0 mac80211.sh
+[  395.798870] [   1906]     0  1906      370       34    20480        0             0 hotplug-call
+[  395.807795] [   1910]     0  1910      371       13    16384        0             0 jshn
+[  395.816024] [   1911]     0  1911      349       11    20480        0             0 ls
+[  395.824080] [   1913]     0  1913      349       12    16384        0             0 sysctl
+[  395.832485] [   1914]     0  1914      349       12    16384        0             0 logger
+[  395.840892] [   1915]     0  1915     1571       15    24576        0             0 hostapd
+[  395.849388] [   1916]     0  1916     1472       11    24576        0             0 wpa_supplicant
+[  395.858500] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),task=rpcd,pid=1124,uid=0
+[  395.866742] Out of memory: Killed process 1124 (rpcd) total-vm:3944kB, anon-rss:448kB, file-rss:4kB, shmem-rss:0kB, UID:0 pgtables:24kB oom_score_adj:0
+[  408.906463] hotplug-call invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=0
+[  408.917690] CPU: 0 PID: 1917 Comm: hotplug-call Tainted: G           O       6.6.110 #0
+[  408.925820] Stack : 80527f54 00000000 ffffffff 800501e8 00000000 00000000 00000000 00000000
+[  408.934352]         00000000 00000000 00000000 00000000 00000000 00000001 8157db78 7e9c1f8b
+[  408.942877]         8157dc10 00000000 00000000 8157dab8 00000038 804d7b64 00000000 0000000e
+[  408.951403]         20202020 00000042 00000100 20202020 804f02a0 804f02a0 80a84f00 805b3e3c
+[  408.959933]         7fffffff 805b3c80 ffffffff 80000000 00000000 802836e4 00000000 80770000
+[  408.968462]         ...
+[  408.970948] Call Trace:
+[  408.970959] [<800501e8>] 0x800501e8
+[  408.977134] [<804d7b64>] 0x804d7b64
+[  408.980730] [<802836e4>] 0x802836e4
+[  408.984415] [<8000614c>] 0x8000614c
+[  408.987959] [<80006154>] 0x80006154
+[  408.991501] [<804b8c0c>] 0x804b8c0c
+[  408.995140] [<800d8c7c>] 0x800d8c7c
+[  408.998923] [<800d90a4>] 0x800d90a4
+[  409.002562] [<80112580>] 0x80112580
+[  409.006156] [<800d9608>] 0x800d9608
+[  409.009704] [<801135f4>] 0x801135f4
+[  409.013448] [<800d652c>] 0x800d652c
+[  409.017370] [<800d6838>] 0x800d6838
+[  409.021483] [<800fc3fc>] 0x800fc3fc
+[  409.025121] [<800ff240>] 0x800ff240
+[  409.029144] [<8000e378>] 0x8000e378
+[  409.032734] [<80121b04>] 0x80121b04
+[  409.036329] [<8001230c>] 0x8001230c
+[  409.039985] 
+[  409.041550] Mem-Info:
+[  409.043859] active_anon:490 inactive_anon:124 isolated_anon:0
+[  409.043859]  active_file:0 inactive_file:1512 isolated_file:0
+[  409.043859]  unevictable:0 dirty:0 writeback:0
+[  409.043859]  slab_reclaimable:299 slab_unreclaimable:1699
+[  409.043859]  mapped:24 shmem:51 pagetables:101
+[  409.043859]  sec_pagetables:0 bounce:0
+[  409.043859]  kernel_misc_reclaimable:0
+[  409.043859]  free:256 free_pcp:1 free_cma:0
+[  409.081795] Node 0 active_anon:1960kB inactive_anon:496kB active_file:0kB inactive_file:6048kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:96kB dirty:0kB writeback:0kB shmem:204kB writeback_tmp:0kB kernel_stack:416kB pagetables:404kB sec_pagetables:0kB all_unreclaimable? yes
+[  409.108003] Normal free:1024kB boost:0kB min:1024kB low:1280kB high:1536kB reserved_highatomic:0KB active_anon:1960kB inactive_anon:496kB active_file:0kB inactive_file:6048kB unevictable:0kB writepending:0kB present:32768kB managed:25796kB mlocked:0kB bounce:0kB free_pcp:4kB local_pcp:4kB free_cma:0kB
+[  409.135100] lowmem_reserve[]: 0 0
+[  409.138485] Normal: 0*4kB 0*8kB 34*16kB (U) 15*32kB (U) 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB 0*8192kB = 1024kB
+[  409.150614] 1563 total pagecache pages
+[  409.154415] 8192 pages RAM
+[  409.157156] 0 pages HighMem/MovableOnly
+[  409.161057] 1743 pages reserved
+[  409.164240] Tasks state (memory values in pages):
+[  409.169017] [  pid  ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+[  409.177759] [    480]    81   480      383       27    20480        0             0 ubusd
+[  409.186083] [    488]     0   488      271       12    20480        0             0 askfirst
+[  409.194676] [    523]     0   523      310       15    20480        0             0 urngd
+[  409.202997] [   1070]   514  1070      587       44    24576        0             0 logd
+[  409.211232] [   1555]     0  1555      680       51    20480        0             0 netifd
+[  409.219640] [   1673]     0  1673      477       28    20480        0             0 odhcpd
+[  409.228036] [   1792]     0  1792      500       29    20480        0             0 uhttpd
+[  409.236441] [   1794]     0  1794      409       76    16384        0             0 S80ucitrack
+[  409.245290] [   1885]     0  1885      370       34    20480        0             0 hotplug-call
+[  409.254234] [   1888]     0  1888      370       33    16384        0             0 hotplug-call
+[  409.263176] [   1890]     0  1890      402       63    16384        0             0 packet_steering
+[  409.272383] [   1891]     0  1891      981       18    24576        0             0 dnsmasq
+[  409.280879] [   1902]     0  1902      370       31    16384        0             0 mac80211.sh
+[  409.289730] [   1906]     0  1906      370       34    20480        0             0 hotplug-call
+[  409.298667] [   1910]     0  1910      371       14    16384        0             0 jshn
+[  409.306885] [   1914]     0  1914      350       13    16384        0             0 logger
+[  409.315292] [   1915]     0  1915     1571       15    24576        0             0 hostapd
+[  409.323787] [   1916]     0  1916     1538       12    24576        0             0 wpa_supplicant
+[  409.332897] [   1917]     0  1917      372       33    16384        0             0 hotplug-call
+[  409.341833] [   1918]     0  1918      402       62    16384        0             0 packet_steering
+[  409.351033] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),task=S80ucitrack,pid=1794,uid=0
+[  409.359905] Out of memory: Killed process 1794 (S80ucitrack) total-vm:1636kB, anon-rss:300kB, file-rss:4kB, shmem-rss:0kB, UID:0 pgtables:16kB oom_score_adj:0
+[  409.674193] packet_steering invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=0
+[  409.685686] CPU: 0 PID: 1918 Comm: packet_steering Tainted: G           O       6.6.110 #0
+[  409.694080] Stack : 80527f54 00000000 ffffffff 800501e8 00000000 00000000 00000000 00000000
+[  409.702612]         00000000 00000000 00000000 00000000 00000000 00000001 81e1fb78 97d05672
+[  409.711137]         81e1fc10 00000000 00000000 81e1fab8 00000038 804d7b64 00000000 0000000a
+[  409.719663]         20202047 00000042 00000100 20202020 804f02a0 804f02a0 80b50a00 805b3e3c
+[  409.728193]         7fffffff 805b3c80 ffffffff 80000000 00000000 802836e4 00000000 80770000
+[  409.736722]         ...
+[  409.739208] Call Trace:
+[  409.739218] [<800501e8>] 0x800501e8
+[  409.745395] [<804d7b64>] 0x804d7b64
+[  409.748990] [<802836e4>] 0x802836e4
+[  409.752675] [<8000614c>] 0x8000614c
+[  409.756219] [<80006154>] 0x80006154
+[  409.759761] [<804b8c0c>] 0x804b8c0c
+[  409.763400] [<800d8c7c>] 0x800d8c7c
+[  409.767183] [<800d90a4>] 0x800d90a4
+[  409.770821] [<80112580>] 0x80112580
+[  409.774416] [<800d9608>] 0x800d9608
+[  409.777964] [<801135f4>] 0x801135f4
+[  409.781707] [<800d652c>] 0x800d652c
+[  409.785628] [<800d6838>] 0x800d6838
+[  409.789171] [<80017810>] 0x80017810
+[  409.793235] [<800fc3fc>] 0x800fc3fc
+[  409.796874] [<800ff240>] 0x800ff240
+[  409.800896] [<8000e378>] 0x8000e378
+[  409.804586] [<8001230c>] 0x8001230c
+[  409.808243] 
+[  409.809788] Mem-Info:
+[  409.812095] active_anon:421 inactive_anon:118 isolated_anon:0
+[  409.812095]  active_file:0 inactive_file:1512 isolated_file:0
+[  409.812095]  unevictable:0 dirty:0 writeback:0
+[  409.812095]  slab_reclaimable:299 slab_unreclaimable:1699
+[  409.812095]  mapped:24 shmem:51 pagetables:97
+[  409.812095]  sec_pagetables:0 bounce:0
+[  409.812095]  kernel_misc_reclaimable:0
+[  409.812095]  free:256 free_pcp:80 free_cma:0
+[  409.850028] Node 0 active_anon:1684kB inactive_anon:472kB active_file:0kB inactive_file:6048kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:96kB dirty:0kB writeback:0kB shmem:204kB writeback_tmp:0kB kernel_stack:408kB pagetables:388kB sec_pagetables:0kB all_unreclaimable? yes
+[  409.876236] Normal free:1024kB boost:0kB min:1024kB low:1280kB high:1536kB reserved_highatomic:0KB active_anon:1684kB inactive_anon:472kB active_file:0kB inactive_file:6048kB unevictable:0kB writepending:0kB present:32768kB managed:25796kB mlocked:0kB bounce:0kB free_pcp:320kB local_pcp:320kB free_cma:0kB
+[  409.903696] lowmem_reserve[]: 0 0
+[  409.907073] Normal: 0*4kB 0*8kB 34*16kB (U) 15*32kB (U) 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB 0*8192kB = 1024kB
+[  409.919205] 1563 total pagecache pages
+[  409.923006] 8192 pages RAM
+[  409.925747] 0 pages HighMem/MovableOnly
+[  409.929647] 1743 pages reserved
+[  409.932831] Tasks state (memory values in pages):
+[  409.937598] [  pid  ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+[  409.946350] [    480]    81   480      383       27    20480        0             0 ubusd
+[  409.954671] [    488]     0   488      271       12    20480        0             0 askfirst
+[  409.963253] [    523]     0   523      310       15    20480        0             0 urngd
+[  409.971574] [   1070]   514  1070      587       44    24576        0             0 logd
+[  409.979806] [   1555]     0  1555      680       51    20480        0             0 netifd
+[  409.988214] [   1673]     0  1673      477       28    20480        0             0 odhcpd
+[  409.996609] [   1792]     0  1792      500       29    20480        0             0 uhttpd
+[  410.005016] [   1885]     0  1885      370       34    20480        0             0 hotplug-call
+[  410.013952] [   1888]     0  1888      370       33    16384        0             0 hotplug-call
+[  410.022885] [   1890]     0  1890      402       63    16384        0             0 packet_steering
+[  410.032091] [   1891]     0  1891      981       18    24576        0             0 dnsmasq
+[  410.040593] [   1902]     0  1902      370       31    16384        0             0 mac80211.sh
+[  410.049442] [   1906]     0  1906      370       34    20480        0             0 hotplug-call
+[  410.058378] [   1910]     0  1910      371       14    16384        0             0 jshn
+[  410.066598] [   1914]     0  1914      350       13    16384        0             0 logger
+[  410.075004] [   1915]     0  1915     1571       15    24576        0             0 hostapd
+[  410.083500] [   1916]     0  1916     1538       12    24576        0             0 wpa_supplicant
+[  410.092610] [   1917]     0  1917      372       33    16384        0             0 hotplug-call
+[  410.101546] [   1918]     0  1918      402       62    16384        0             0 packet_steering
+[  410.110783] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),task=packet_steering,pid=1890,uid=0
+[  410.120017] Out of memory: Killed process 1890 (packet_steering) total-vm:1608kB, anon-rss:248kB, file-rss:4kB, shmem-rss:0kB, UID:0 pgtables:16kB oom_score_adj:0
+[  421.725583] procd invoked oom-killer: gfp_mask=0x140cca(GFP_HIGHUSER_MOVABLE|__GFP_COMP), order=0, oom_score_adj=0
+[  421.736194] CPU: 0 PID: 1920 Comm: procd Tainted: G           O       6.6.110 #0
+[  421.743707] Stack : 80527f54 00000000 ffffffff 800501e8 00000000 00000000 00000000 00000000
+[  421.752240]         00000000 00000000 00000000 00000000 00000000 00000001 81de3958 9b236f53
+[  421.760765]         81de39f0 00000000 00000000 81de3898 00000038 804d7b64 00000000 0000000b
+[  421.769291]         204f2020 00000042 00000100 20202020 804f02a0 804f02a0 80b51900 805b3e3c
+[  421.777821]         7fffffff 805b3c80 ffffffff 80000000 00000000 802836e4 00000000 80770000
+[  421.786350]         ...
+[  421.788836] Call Trace:
+[  421.788846] [<800501e8>] 0x800501e8
+[  421.795022] [<804d7b64>] 0x804d7b64
+[  421.798617] [<802836e4>] 0x802836e4
+[  421.802302] [<8000614c>] 0x8000614c
+[  421.805846] [<80006154>] 0x80006154
+[  421.809388] [<804b8c0c>] 0x804b8c0c
+[  421.813074] [<800d8c7c>] 0x800d8c7c
+[  421.816857] [<800d90a4>] 0x800d90a4
+[  421.820450] [<80112580>] 0x80112580
+[  421.824045] [<800d9608>] 0x800d9608
+[  421.827593] [<801135f4>] 0x801135f4
+[  421.831524] [<800d59a8>] 0x800d59a8
+[  421.835115] [<800d6c8c>] 0x800d6c8c
+[  421.838705] [<8011e3b8>] 0x8011e3b8
+[  421.842819] [<800d5e98>] 0x800d5e98
+[  421.846409] [<801aec38>] 0x801aec38
+[  421.850378] [<8012cc98>] 0x8012cc98
+[  421.854111] [<801324bc>] 0x801324bc
+[  421.857701] [<8012056c>] 0x8012056c
+[  421.861576] [<8012056c>] 0x8012056c
+[  421.865501] [<80120ef4>] 0x80120ef4
+[  421.869091] [<801aee4c>] 0x801aee4c
+[  421.872729] [<801af158>] 0x801af158
+[  421.876508] [<801afed0>] 0x801afed0
+[  421.880192] [<8012eb6c>] 0x8012eb6c
+[  421.884067] [<80121494>] 0x80121494
+[  421.887949] [<8016ddc0>] 0x8016ddc0
+[  421.891491] [<80117b10>] 0x80117b10
+[  421.895178] [<801214bc>] 0x801214bc
+[  421.898968] [<8012959c>] 0x8012959c
+[  421.902558] [<80128d70>] 0x80128d70
+[  421.906247] [<801299a4>] 0x801299a4
+[  421.909841] [<8012a490>] 0x8012a490
+[  421.913387] [<8000c6a0>] 0x8000c6a0
+[  421.917044] 
+[  421.918626] Mem-Info:
+[  421.920937] active_anon:372 inactive_anon:124 isolated_anon:0
+[  421.920937]  active_file:1651 inactive_file:0 isolated_file:0
+[  421.920937]  unevictable:0 dirty:0 writeback:0
+[  421.920937]  slab_reclaimable:297 slab_unreclaimable:1699
+[  421.920937]  mapped:29 shmem:56 pagetables:103
+[  421.920937]  sec_pagetables:0 bounce:0
+[  421.920937]  kernel_misc_reclaimable:0
+[  421.920937]  free:256 free_pcp:0 free_cma:0
+[  421.958874] Node 0 active_anon:1488kB inactive_anon:496kB active_file:6604kB inactive_file:0kB unevictable:0kB isolated(anon):0kB isolated(file):0kB mapped:116kB dirty:0kB writeback:0kB shmem:224kB writeback_tmp:0kB kernel_stack:416kB pagetables:412kB sec_pagetables:0kB all_unreclaimable? yes
+[  421.985171] Normal free:1024kB boost:0kB min:1024kB low:1280kB high:1536kB reserved_highatomic:0KB active_anon:1488kB inactive_anon:496kB active_file:6604kB inactive_file:0kB unevictable:0kB writepending:0kB present:32768kB managed:25796kB mlocked:0kB bounce:0kB free_pcp:0kB local_pcp:0kB free_cma:0kB
+[  422.012268] lowmem_reserve[]: 0 0
+[  422.015644] Normal: 0*4kB 0*8kB 34*16kB (U) 15*32kB (U) 0*64kB 0*128kB 0*256kB 0*512kB 0*1024kB 0*2048kB 0*4096kB 0*8192kB = 1024kB
+[  422.027766] 1707 total pagecache pages
+[  422.031579] 8192 pages RAM
+[  422.034322] 0 pages HighMem/MovableOnly
+[  422.038223] 1743 pages reserved
+[  422.041405] Tasks state (memory values in pages):
+[  422.046171] [  pid  ]   uid  tgid total_vm      rss pgtables_bytes swapents oom_score_adj name
+[  422.054924] [    480]    81   480      383       27    20480        0             0 ubusd
+[  422.063241] [    488]     0   488      271       12    20480        0             0 askfirst
+[  422.071824] [    523]     0   523      310       15    20480        0             0 urngd
+[  422.080145] [   1070]   514  1070      587       54    24576        0             0 logd
+[  422.088378] [   1555]     0  1555      680       51    20480        0             0 netifd
+[  422.096774] [   1673]     0  1673      473       26    20480        0             0 odhcpd
+[  422.105180] [   1792]     0  1792      500       29    20480        0             0 uhttpd
+[  422.113588] [   1885]     0  1885      370       34    20480        0             0 hotplug-call
+[  422.122521] [   1888]     0  1888      370       33    16384        0             0 hotplug-call
+[  422.131469] [   1891]     0  1891      981       18    24576        0             0 dnsmasq
+[  422.139979] [   1902]     0  1902      370       31    16384        0             0 mac80211.sh
+[  422.148833] [   1906]     0  1906      370       34    20480        0             0 hotplug-call
+[  422.157757] [   1910]     0  1910      371       14    16384        0             0 jshn
+[  422.165989] [   1914]     0  1914      349       12    16384        0             0 logger
+[  422.174396] [   1915]     0  1915     1571       15    24576        0             0 hostapd
+[  422.182889] [   1916]     0  1916     1571       14    24576        0             0 wpa_supplicant
+[  422.192002] [   1917]     0  1917      372       33    16384        0             0 hotplug-call
+[  422.200939] [   1918]     0  1918      114        1     4096        0             0 readlink
+[  422.209522] [   1919]     0  1919      590       49    20480        0             0 procd
+[  422.217829] [   1920]     0  1920      590       49    20480        0             0 procd
+[  422.226145] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),task=logd,pid=1070,uid=514
+[  422.234567] Out of memory: Killed process 1070 (logd) total-vm:2348kB, anon-rss:152kB, file-rss:4kB, shmem-rss:60kB, UID:514 pgtables:24kB oom_score_adj:0
+[  425.601437] oom_reaper: reaped process 1070 (logd), now anon-rss:0kB, file-rss:0kB, shmem-rss:60kB
